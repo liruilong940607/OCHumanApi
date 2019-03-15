@@ -5,6 +5,5 @@ __pycache__
 .ipynb_checkpoints
 *.json
 *.so
-*.jpg
 *.png
-
+*.zip
