@@ -36,7 +36,7 @@ Here we also provide the coco style annotations [[Annotations COCO Style (val)]]
 ## Install API 
 ```
 git clone https://github.com/liruilong940607/OCHumanApi
-cd OCHuman
+cd OCHumanApi
 make install
 ```
 
