@@ -41,4 +41,4 @@ make install
 ```
 
 ## How to use
-See [Demo.ipynb](https://github.com/liruilong940607/OCHumanApi/Demo.ipynb)
+See [Demo.ipynb](Demo.ipynb)
