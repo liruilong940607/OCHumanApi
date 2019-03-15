@@ -1,0 +1,10 @@
+build
+images
+ochumanApi/_mask.c
+__pycache__
+.ipynb_checkpoints
+*.json
+*.so
+*.jpg
+*.png
+
