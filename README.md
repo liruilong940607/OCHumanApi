@@ -1,6 +1,6 @@
 # OCHuman(Occluded Human) Dataset Api
 
-Dataset proposed in 'Pose2Seg: Human Instance Segmentation Without Detection'[[ProjectPage]](http://www.liruilong.cn/Pose2Seg/index.html)[[arXiv]](https://arxiv.org/abs/1803.10683) @ CVPR2019. 
+Dataset proposed in 'Pose2Seg: Detection Free Human Instance Segmentation'[[ProjectPage]](http://www.liruilong.cn/Pose2Seg/index.html)[[arXiv]](https://arxiv.org/abs/1803.10683) @ CVPR2019. 
 
 <div align="center">
 <img src="figures/dataset.jpg" width="1000px"/>
