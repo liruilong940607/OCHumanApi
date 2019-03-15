@@ -13,7 +13,7 @@ This dataset focus on heavily occluded human with comprehensive annotations incl
 ## Statistics
 
 All the instances in this dataset are annotated by bounding-box. While not all of them have the
-keypoint/mask annotation. If you want to compare your results with our paper's, please use the subset
+keypoint/mask annotation. If you want to compare your results with ours in the paper, please use the subset
 that contains both keypoint and mask annotations (4731 images, 8110 persons).
 
 |          | bbox  | keypoint | mask | keypoint&mask | bbox&keypoint&mask|
