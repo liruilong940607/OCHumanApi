@@ -28,10 +28,9 @@ that contains both keypoint and mask annotations (4731 images, 8110 persons).
 
 ## Download Links
 
-- [Images (667MB)](https://cg.cs.tsinghua.edu.cn/people/~lrl/OCHuman/images.zip)
-- [Annotations](https://cg.cs.tsinghua.edu.cn/people/~lrl/OCHuman/ochuman.json)
+- [Images (667MB) & Annotations](https://cg.cs.tsinghua.edu.cn/dataset/form.html?dataset=ochuman)
 
-Here we also provide the coco style annotations [[Annotations COCO Style (val)]](https://cg.cs.tsinghua.edu.cn/people/~lrl/OCHuman/ochuman_coco_format_val_range_0.00_1.00.json)[[Annotations COCO Style (test)]](https://cg.cs.tsinghua.edu.cn/people/~lrl/OCHuman/ochuman_coco_format_test_range_0.00_1.00.json) so that you can run evaluation using cocoEval toolbox.
+In the above link, we also provide the coco style annotations (*val* and *test* subset) so that you can run evaluation using cocoEval toolbox.
 
 ## Install API 
 ```
