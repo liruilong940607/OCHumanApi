@@ -54,8 +54,10 @@ class OCHuman():
         self.keypoint_visible = self.dataset['keypoint_visible']
         
         self.images = {}
+        self.imgIds = []
         if Filter==None:
             for imgItem in self.dataset['images']:
+                self.imgIds.append(imgItem['image_id'])
                 self.images[imgItem['image_id']] = imgItem
         else:
             for imgItem in self.dataset['images']:                
@@ -73,10 +75,9 @@ class OCHuman():
                              if anno['segms']]
                 if len(annos)>0:
                     imgItem['annotations'] = annos
+                    self.imgIds.append(imgItem['image_id'])
                     self.images[imgItem['image_id']] = imgItem
         
-        self.imgIds = list(self.images.keys())
-        self.imgIds.sort()
 
     def getImgIds(self):
         return self.imgIds
