@@ -35,7 +35,7 @@ that contains both keypoint and mask annotations (4731 images, 8110 persons).
 
 In the above link, we also provide the coco style annotations (*val* and *test* subset) so that you can run evaluation using cocoEval toolbox.
 
-*Update at 2019.06.14: Please download annotation files (*.json) again to match the val/test split used in our paper.*
+*Update at 2019.06.14: Please download annotation files (\*json) again to match the val/test split used in our paper.*
 
 ## Install API 
 ```
