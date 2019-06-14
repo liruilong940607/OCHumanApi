@@ -2,9 +2,8 @@
 
 Dataset proposed in "Pose2Seg: Detection Free Human Instance Segmentation" [[ProjectPage]](http://www.liruilong.cn/projects/pose2seg/index.html) [[arXiv]](https://arxiv.org/abs/1803.10683) @ CVPR2019. 
 
-**News! 2019.04.08** Bug fixed: Val/Test annotation split is now matched to our paper, please update!
-
-**News! 2019.04.08** [Codes](https://github.com/liruilong940607/Pose2Seg) for our paper is available now!
+- **News! 2019.06.14** Bug fixed: Val/Test annotation split is now matched to our paper, please update!
+- **News! 2019.04.08** [Codes](https://github.com/liruilong940607/Pose2Seg) for our paper is available now!
 
 <div align="center">
 <img src="figures/dataset.jpg" width="1000px"/>
@@ -36,7 +35,7 @@ that contains both keypoint and mask annotations (4731 images, 8110 persons).
 
 In the above link, we also provide the coco style annotations (*val* and *test* subset) so that you can run evaluation using cocoEval toolbox.
 
-*Update at 2019.04.08: Please download annotation files (*.json) again to match the val/test split used in our paper.*
+*Update at 2019.06.14: Please download annotation files (*.json) again to match the val/test split used in our paper.*
 
 ## Install API 
 ```
